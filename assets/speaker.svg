@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="440" viewBox="0 0 480 440" role="img" aria-label="Minh họa sản phẩm speaker">
+<defs><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a7ccb9"/><stop offset="1" stop-color="#fff"/></linearGradient><radialGradient id="ground"><stop stop-color="#a7ccb9" stop-opacity=".45"/><stop offset="1" stop-color="#a7ccb9" stop-opacity="0"/></radialGradient></defs>
+<ellipse cx="240" cy="385" rx="173" ry="43" fill="url(#ground)"/><circle cx="240" cy="215" r="176" fill="#e2f6e6" opacity=".5"/>
+<rect x="135" y="83" width="210" height="287" rx="64" fill="#2c374b"/><rect x="152" y="98" width="176" height="254" rx="54" fill="url(#accent)"/><circle cx="240" cy="218" r="75" fill="#f9fbff" fill-opacity=".35"/><circle cx="240" cy="218" r="56" fill="#526078"/><circle cx="240" cy="218" r="33" fill="#cdd9d4"/><circle cx="240" cy="130" r="7" fill="#4b5872"/>
+</svg>
