@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="440" viewBox="0 0 480 440" role="img" aria-label="Minh họa sản phẩm camera">
+<defs><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9bbedb"/><stop offset="1" stop-color="#fff"/></linearGradient><radialGradient id="ground"><stop stop-color="#9bbedb" stop-opacity=".45"/><stop offset="1" stop-color="#9bbedb" stop-opacity="0"/></radialGradient></defs>
+<ellipse cx="240" cy="385" rx="173" ry="43" fill="url(#ground)"/><circle cx="240" cy="215" r="176" fill="#e8f2ff" opacity=".5"/>
+<path d="M170 98h140l25 40v218H145V138z" fill="#34405a"/><rect x="159" y="121" width="162" height="217" rx="29" fill="url(#accent)"/><circle cx="240" cy="220" r="72" fill="#35435c"/><circle cx="240" cy="220" r="47" fill="#899bb6"/><circle cx="240" cy="220" r="24" fill="#23314b"/><circle cx="196" cy="152" r="9" fill="#e6efff"/><path d="M173 355h134v25H173z" fill="#33405a"/>
+</svg>
